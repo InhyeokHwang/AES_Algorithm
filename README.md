@@ -1,5 +1,6 @@
 # AES_Algorithm
 This is modified version of kokke's AES algorithm to make it easier for me to use.
+https://github.com/kokke/tiny-AES-c
 
 사용하고자 하는 key 사이즈 선택 (aes.h 헤더파일의 27~29번째 줄) 
 
